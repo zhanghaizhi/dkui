@@ -1,6 +1,6 @@
 # dkui
 
-> A Vue.js project
+> 自己写的测试ui组件项目
 
 ## Build Setup
 

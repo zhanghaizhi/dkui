@@ -3,11 +3,12 @@
         <p>这是一个搜索的组件</p>
     </div>
 </template>
-<style lang='scss' scoped>
+<style  scoped>
 
 </style>
 <script>
     export default {
+        name:"test-search",
         data(){
            return {
 
